@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/churview-logo.png" alt="ChurView" width="180">
+<img src="churview-logo.png" alt="ChurView" width="180">
 
 # ChurView
 
@@ -12,7 +12,7 @@ Live TV, a proper TV guide, films and series, all in one place, on your PC, TV b
 ![Android](https://img.shields.io/badge/Android-phones%20%7C%20TV%20boxes-7B5BF5?style=flat-square)
 ![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)
 
-<img src="images/home.png" alt="ChurView home screen" width="900">
+<img src="home.png" alt="ChurView home screen" width="900">
 
 </div>
 
@@ -42,7 +42,7 @@ Optional Stremio add-on support and Trakt watch-history sync, using your own acc
 Share your favourite channels with family on their own devices, set a parental PIN, and use it with a keyboard, mouse or TV remote.
 
 <div align="center">
-<img src="images/home-rows.png" alt="Up next and continue watching" width="900">
+<img src="home-rows.png" alt="Up next and continue watching" width="900">
 </div>
 
 ---
@@ -51,9 +51,9 @@ Share your favourite channels with family on their own devices, set a parental P
 
 | Live TV | TV guide |
 |---|---|
-| <img src="images/live-tv.png" alt="Live TV" width="440"> | <img src="images/guide.png" alt="TV guide" width="440"> |
+| <img src="live-tv.png" alt="Live TV" width="440"> | <img src="guide.png" alt="TV guide" width="440"> |
 | **Films** | **Film page** |
-| <img src="images/movies.png" alt="Films" width="440"> | <img src="images/film-page.png" alt="Film page" width="440"> |
+| <img src="movies.png" alt="Films" width="440"> | <img src="film-page.png" alt="Film page" width="440"> |
 
 *Screenshots use made-up demo channels and films.*
 
