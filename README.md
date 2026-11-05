@@ -72,7 +72,7 @@ Share your favourite channels with family on their own devices, set a parental P
 
 | | |
 |---|---|
-| **Android** (phones, Android TV, TV boxes) | Download the latest `ChurView-x.x.x.apk` from [**Releases**](../../releases) and install it. On a TV, the *Downloader* app works well. |
+| **Android** (phones, Android TV, TV boxes) | Download the latest `ChurView-x.x.x.apk` from [**ChurView for Android**](https://github.com/Palmer890/churview-android/releases/latest) and install it. On a TV, the *Downloader* app works well. |
 | **Windows and Linux** | Already installed? ChurView keeps itself up to date from this page: check **Settings → Updates**. |
 
 New versions go up as a **pre-release** first. Turn on **Settings → Updates → Try new updates first** if you'd like them early.
