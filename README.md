@@ -7,10 +7,10 @@
 **A good-looking, easy TV player for your own IPTV subscription.**
 Live TV, a proper TV guide, films and series, all in one place, on your PC, TV box or phone.
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-7B5BF5?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-desktop-7B5BF5?style=flat-square)
-![Android](https://img.shields.io/badge/Android-phones%20%7C%20TV%20boxes-7B5BF5?style=flat-square)
-![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-7B5BF5?style=flat-square)](#getting-it)
+[![Linux](https://img.shields.io/badge/Linux-desktop-7B5BF5?style=flat-square)](#getting-it)
+[![Android](https://img.shields.io/badge/Android-phones%20%7C%20TV%20boxes-7B5BF5?style=flat-square)](https://github.com/Palmer890/churview-android)
+[![Made in](https://img.shields.io/badge/made%20by-a%20Kiwi%20🤙-9D85FF?style=flat-square)](#what-it-does)
 
 <img src="home.png" alt="ChurView home screen" width="900">
 
